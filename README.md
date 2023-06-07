@@ -96,7 +96,7 @@ http://localhost:xxxx
 
 ## 许可证
 
-该项目基于 [MIT许可证](LICENSE) 进行发布和分发。
+该项目基于 AFL-3.0(LICENSE) 进行发布和分发。
 
 ## 作者
   
